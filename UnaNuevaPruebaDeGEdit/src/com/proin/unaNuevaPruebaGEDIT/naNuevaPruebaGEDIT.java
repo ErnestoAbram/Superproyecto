@@ -6,7 +6,7 @@ public class naNuevaPruebaGEDIT {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println(" Hola git V2");
+		System.out.println(" Hola git V3");
 
 	}
 
